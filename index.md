@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## My portfolio
 
-You can use the [editor on GitHub](https://github.com/tatupaaj/tatupaaj.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Me
+I'm third year student of Information and Communication Technology in ICT institution at the Jyväskylä's University of Applied Sciences. My specialization is Software Engineering. I graduaded from Seppä high school 2014, after that I worked little bit at nursing home Telkänpesä as a cleaner. Since that my work experience has accumulated mostly from cleaning work.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My projects
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tatupaaj/tatupaaj.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
