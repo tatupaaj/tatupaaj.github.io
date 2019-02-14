@@ -7,7 +7,15 @@
 <h2> My projects </h2>
 
 <h3> Get Out </h3>
-<p>Small game made by C#. In this game we have three rooms where you have to find three keys to unlock the door so you get away from teatcher </p>
+<img src="./assets/images/GetOut1.JPG" class="img-responsive" alt="..." high=200px width=200px >
+<img src="./assets/images/GetOut2.JPG" class="img-responsive" alt="..." high=200px width=200px >
+<img src="./assets/images/GetOut3.JPG" class="img-responsive" alt="..." high=200px width=200px >
+<img src="./assets/images/GetOut4.JPG" class="img-responsive" alt="..." high=200px width=200px >
+<img src="./assets/images/GetOut5.JPG" class="img-responsive" alt="..." high=200px width=200px >
+<img src="./assets/images/GetOut6.JPG" class="img-responsive" alt="..." high=200px width=200px >
+<img src="./assets/images/GetOut7.JPG" class="img-responsive" alt="..." high=200px width=200px >
+<img src="./assets/images/GetOut8.JPG" class="img-responsive" alt="..." high=200px width=200px >
+<p>Small game made by C#. In this game we have five rooms where you have to find three keys to unlock the door so you get away from teatcher. You have a time limit to find those keys.</p>
 
 
 <h3> Around the world </h3>
