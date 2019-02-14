@@ -6,3 +6,12 @@
 
 <h2> My projects </h2>
 
+<h3> Get Out </h3>
+<p>Small game made by C#. In this game we have three rooms where you have to find three keys to unlock the door so you get away from teatcher </p>
+
+
+<h3> Around the world </h3>
+
+<h3> GG-project </h3>
+
+<h3> Landis+Gyr project </h3>
